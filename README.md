@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Nadeer E P 👋
 
-<!--
-**nadeerep07/nadeerep07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flutter & Node.js developer building **clean, responsive apps**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+**Flutter | Dart | JavaScript | Node.js | Firebase | Hive | BLoC | Provider | GetX**  
+
+---
+
+## 💻 Projects
+- **QuickPitch** – Task marketplace app  
+- **InvoZoyo** – Billing & inventory app  
+- **Dirham Package** – Flutter package for Dirham currency  
+
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nadeerep/) • [GitHub](https://github.com/nadeerep07)  
+
+
