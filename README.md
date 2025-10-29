@@ -9,19 +9,19 @@ Flutter & Node.js developer building **clean, responsive apps**.
 
 ---
 
-## 🛠 Skills
+##  Skills
 **Flutter | Dart | JavaScript | Node.js | Firebase | Hive | BLoC | Provider | GetX**  
 
 ---
 
-## 💻 Projects
+## Projects
 - **QuickPitch** – Task marketplace app  
 - **InvoZoyo** – Billing & inventory app  
 - **Dirham Package** – Flutter package for Dirham currency  
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nadeerep/" target="_blank">
