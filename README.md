@@ -21,14 +21,15 @@ Flutter & Node.js developer building **clean, responsive apps**.
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nadeerep/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://nadeerep-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://nadeerep-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=flutter&logoColor=white" alt="Portfolio"/>
+</a>
+
 </p>
 
