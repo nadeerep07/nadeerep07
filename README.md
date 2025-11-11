@@ -27,9 +27,6 @@ Flutter & Node.js developer building **clean, responsive apps**.
   <a href="https://www.linkedin.com/in/nadeerep/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/nadeerep07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://nadeerep-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
