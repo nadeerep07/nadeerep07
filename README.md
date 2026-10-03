@@ -46,11 +46,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📦 Open Source
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nadeerep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=06b6d4" />
-  <img height="165" src="https://streak-stats.demolab.com?user=nadeerep&theme=tokyonight&hide_border=true&background=0f172a&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4" />
+  <a href="https://pub.dev/packages/dirham_symbol">
+    <img src="https://img.shields.io/pub/v/dirham_symbol?style=for-the-badge&logo=dart&logoColor=white&label=dirham_symbol&color=0175C2"/>
+    <img src="https://img.shields.io/pub/points/dirham_symbol?style=for-the-badge&logo=dart&logoColor=white&color=06b6d4"/>
+    <img src="https://img.shields.io/pub/likes/dirham_symbol?style=for-the-badge&logo=dart&logoColor=white&color=0f172a"/>
+  </a>
 </p>
 
 ---
