@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nadeerep/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logoColor=white"/></a>
-  <a href="https://nadeerep-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06b6d4?style=flat-square&logo=flutter&logoColor=white"/></a>
-  <a href="mailto:nadeerep.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://pub.dev/packages/dirham_symbol"><img src="https://img.shields.io/pub/points/dirham_symbol?style=flat-square&logo=dart&label=dirham_symbol&color=0175C2"/></a>
+  <a href="https://www.linkedin.com/in/nadeerep/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.nadeerep.in/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-nadeerep.in-06b6d4?style=flat-square&logo=flutter&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:nadeerep.dev@gmail.com"><img src="https://img.shields.io/badge/Email-nadeerep.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://pub.dev/packages/dirham_symbol" target="_blank"><img src="https://img.shields.io/pub/points/dirham_symbol?style=flat-square&logo=dart&label=dirham_symbol&color=0175C2" alt="pub.dev"/></a>
 </p>
 
 <p align="center">
   🧳 <b>Flutter Developer</b> @ Tathkarah Travel & Tourism — Flutter Web console + Next.js site<br/>
-  🏥 <b>Founding Mobile Engineer</b> @ Dr Plus — app + backend, live on <a href="">Play Store</a> & <a href="">App Store</a><br/>
-  💼 <b>Side projects:</b> QuickPitch · InvoZoyo · <a href="https://pub.dev/packages/dirham_symbol">dirham_symbol</a>
+  🏥 <b>Founding Engineer</b> @ Dr Plus — Flutter apps + Node.js backend, live on <a href="https://play.google.com/store/apps/details?id=com.drplus.homecare.user" target="_blank">Play Store</a> & <a href="https://apps.apple.com/in/app/dr-plus-home-healthcare/id6757393421" target="_blank">App Store</a><br/>
+  💼 <b>Selected Projects:</b> <a href="https://www.finovision.net/" target="_blank">Finovision</a> · <a href="https://duotek.ae/" target="_blank">Duotek</a> · <a href="https://play.google.com/store/apps/details?id=com.quickpitch" target="_blank">QuickPitch</a> · <a href="https://play.google.com/store/apps/details?id=com.zoyo.bathware" target="_blank">InvoZoyo</a> · <a href="https://pub.dev/packages/dirham_symbol" target="_blank">dirham_symbol</a>
 </p>
 
 <p align="center">
-  <img height="38" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,nextjs,nodejs,express,mongodb,firebase,aws,git,postman,figma&perline=12" />
+  <img height="38" src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,nextjs,react,nodejs,express,postgres,mongodb,firebase,aws,git,postman,figma&perline=14" alt="Tech Stack" />
 </p>
